@@ -1,0 +1,57 @@
+body 
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    padding-top: 2px;
+    font-weight: bolder;
+    color:black;
+    height: 25px;
+}
+
+p{
+
+    font-size: 14px;
+    width: 100%;
+
+}
+.headingdiv
+{
+    width: 100%;
+    color:black;
+    height: 40px;
+
+}
+
+#start , #number_of_objects , #status
+{
+    font-size: 16px;
+}
+
+#name
+{
+    color: white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    background-color: lightskyblue;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top: 75px;
+    box-shadow: 5px 5px 5px white;
+}
